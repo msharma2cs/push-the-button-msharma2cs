@@ -28,7 +28,7 @@ public class ButtonActivity extends AppCompatActivity {
             	// (replace yourusername with your github user name)
             	// click the 'login using github' button
             	// it should take about 10 minutes for the test to run
-                textView.setText("Thanks for being so bland!");
+                textView.setText("Thanks for being so passionate!");
             }
         });
 
