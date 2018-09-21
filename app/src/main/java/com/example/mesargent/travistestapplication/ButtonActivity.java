@@ -21,9 +21,14 @@ public class ButtonActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                textView.setText("Thanks for being so passionate!");
-
-                
+            	// hint: fix this line to pass the auto test
+            	// after pushing your changes to github check the progress of your auto-test 
+            	// by first logging into your github account
+            	// then going to https://travis-ci.com/cs4540/push-the-button-yourusername
+            	// (replace yourusername with your github user name)
+            	// click the 'login using github' button
+            	// it should take about 10 minutes for the test to run
+                textView.setText("Thanks for being so bland!");
             }
         });
 
